@@ -1,1 +1,1 @@
-My first JS project.
+My first JS project. After fix
